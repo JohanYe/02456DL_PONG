@@ -3,13 +3,13 @@ Project completed during course 02456 Deep Learning E19 DTU
 
 It contains the following implementations;
 
-1)
+1) Vanilla-DQN
 
-2)
+2) Frame_diff DQN
 
 3) Dueling-DDQN
 
-4)
+4) DCVAE DQN
 
 ## Results from training
 
