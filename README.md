@@ -11,6 +11,8 @@ It contains the following implementations;
 
 4) DCVAE DQN
 
+For example output please see Frame_diff DQN or Dueling-DDQN with link to colab
+
 ## Results from training
 
 **Agent trained for 100 episodes:**
