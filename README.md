@@ -11,6 +11,14 @@ It contains the following implementations;
 
 4)
 
+**Agent trained for 100 episodes**
+
 ![](100_episodes_trained.gif)
+
+**Agent trained for 400 episodes**
+
 ![](400_episodes_trained.gif)
+
+**Agent trained for 1100 episodes**
+
 ![](1100_episodes_trained.gif)
