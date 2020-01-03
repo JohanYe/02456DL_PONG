@@ -11,4 +11,6 @@ It contains the following implementations;
 
 4)
 
-![](900_episodes_trained.gif)
+![](100_episodes_trained.gif)
+![](400_episodes_trained.gif)
+![](1100_episodes_trained.gif)
