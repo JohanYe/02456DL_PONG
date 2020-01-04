@@ -9,7 +9,7 @@ It contains the following implementations;
 
 3) Dueling-DDQN
 
-4) DCVAE DQN
+4) VAE DQN
 
 For example output please see Frame_diff DQN or Dueling-DDQN with link to colab
 
